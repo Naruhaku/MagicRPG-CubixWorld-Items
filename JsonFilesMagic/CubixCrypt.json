@@ -1,0 +1,15 @@
+[
+  "<cubixcrypt:eth_miner_tier1>",
+  "<cubixcrypt:generator>",
+  "<cubixcrypt:eth_miner_phantom>",
+  "<cubixcrypt:eth_miner_tier0>",
+  "<cubixcrypt:eth_miner_tier2>",
+  "<cubixcrypt:rtx_3090>.withTag({cubixcrypt_durability: 39148})",
+  "<cubixcrypt:gtx_1050ti>.withTag({cubixcrypt_durability: 16556})",
+  "<cubixcrypt:rtx_3070ti>.withTag({cubixcrypt_durability: 25685})",
+  "<cubixcrypt:gen_update0>",
+  "<cubixcrypt:gen_update1>",
+  "<cubixcrypt:gtx_970>.withTag({cubixcrypt_durability: 11963})",
+  "<cubixcrypt:rtx_3060ti>.withTag({cubixcrypt_durability: 22265})",
+  "<cubixcrypt:gen_update2>"
+]

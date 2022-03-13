@@ -1,0 +1,20 @@
+[
+  "<SolarFlux:solar1>",
+  "<SolarFlux:solar2>",
+  "<SolarFlux:solar3>",
+  "<SolarFlux:solar4>",
+  "<SolarFlux:solar5>",
+  "<SolarFlux:solar6>",
+  "<SolarFlux:mirror>",
+  "<SolarFlux:solarCell1>",
+  "<SolarFlux:solarCell2>",
+  "<SolarFlux:solarCell3>",
+  "<SolarFlux:solarCell4>",
+  "<SolarFlux:upgradeEfficiency>",
+  "<SolarFlux:upgradeLowLight>",
+  "<SolarFlux:upgradeTraversal>",
+  "<SolarFlux:upgradeTransferRate>",
+  "<SolarFlux:upgradeCapacity>",
+  "<SolarFlux:upgradeFurnace>",
+  "<SolarFlux:upgradeBlank>"
+]

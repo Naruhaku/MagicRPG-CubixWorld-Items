@@ -1,0 +1,59 @@
+@minecraft
+@Alfheim
+@Alfheim-Modular
+@Ars Magica 2
+@AutoBotany
+@Avaritia
+@Blood Arsenal
+@Blood Magic
+@Botania
+@Carpenters Blocks
+@Chisel
+@Cubix Decorations
+@Cubix Kit Start
+@CubixChunkLoader
+@CubixCrypt
+@CubixRadio
+@CubixSetTools
+@CubixThaumicAdditions
+@DivineRPG
+@Forbidden Magic
+@Gadomancy
+@Iron Chest
+@Magical Additions
+@More Materials
+@Storage Drawers
+@Symcalc
+@Tainted Magic
+@Thaumcraft
+@Thaumic Bases
+@Thaumic Dyes
+@Thaumic Tinker
+@The Twilight Forest
+@Tinkers Construct
+@Travellers Gear
+@Vending Mod
+@Witchery
+@Witching Gadgets
+
+
+@AE2 Extension
+@AE2 Stuff
+@Applied Energistics 2
+@Binnie Core
+@Botany
+@CubixAE2
+@Draconic Evolution
+@DraconicPlus+
+@Extra Bees
+@Extra Cells 2
+@Extra Trees
+@Forestry
+@Genetics
+@Immersive Engineering
+@Solar Flux
+@Magic Bees
+@Thaumic Energistics
+@Thermal Dynamics
+@Thermal Expansion
+@Thermal Foundation
