@@ -1,0 +1,10 @@
+<cubixradio:crblockradio>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crblockradio1>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crblockspeaker0>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crblockspeaker1>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crblockspeaker3>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crblockspeaker4>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crblockspeaker5>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crblockphantom1>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crblockphantom2>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixradio:crremotecontrol>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));

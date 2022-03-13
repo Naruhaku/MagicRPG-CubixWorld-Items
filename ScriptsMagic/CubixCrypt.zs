@@ -1,0 +1,13 @@
+<cubixcrypt:eth_miner_tier1>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:generator>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:eth_miner_phantom>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:eth_miner_tier0>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:eth_miner_tier2>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:rtx_3090>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:gtx_1050ti>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:rtx_3070ti>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:gen_update0>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:gen_update1>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:gtx_970>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:rtx_3060ti>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cubixcrypt:gen_update2>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));

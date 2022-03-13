@@ -1,0 +1,9 @@
+<cbx_kitstart:kitpickaxe>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cbx_kitstart:kitaxe>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cbx_kitstart:kithoe>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cbx_kitstart:kitshovel>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cbx_kitstart:kitsword>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cbx_kitstart:kitarmorhelmet>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cbx_kitstart:kitarmorchest>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cbx_kitstart:kitarmorleggings>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<cbx_kitstart:kitarmorboots>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));

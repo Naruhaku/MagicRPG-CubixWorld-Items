@@ -1,0 +1,12 @@
+<magicaladditions:rune1>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune2>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune3>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune4>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune5>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune6>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune7>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune8>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune9>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:rune10>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:alchemyore>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<magicaladditions:alchemystone>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));

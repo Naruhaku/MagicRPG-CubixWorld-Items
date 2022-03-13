@@ -1,0 +1,17 @@
+<IronChest:BlockIronChest>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:BlockIronChest:1>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:BlockIronChest:2>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:BlockIronChest:3>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:BlockIronChest:4>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:BlockIronChest:5>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:BlockIronChest:6>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:BlockIronChest:7>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:ironGoldUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:goldDiamondUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:copperSilverUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:silverGoldUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:copperIronUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:diamondCrystalUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:woodIronUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:woodCopperUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
+<IronChest:diamondObsidianUpgrade>.addTooltip(format.lightPurple("Минимальная цена за 1 шт = 0")+format.lightPurple("$"));
